@@ -1,0 +1,22 @@
+{
+  "name": "saoir-skills",
+  "description": "Agent skills for web development",
+  "owner": {
+    "name": "Dermot"
+  },
+  "plugins": [
+    {
+      "name": "progressive-enhancement",
+      "source": "./skills/progressive-enhancement",
+      "description": "Progressive enhancement for web UI: server HTML that works alone, CSS and JS layered on top, with patterns, framework recipes and a review checklist",
+      "version": "1.0.0",
+      "author": {
+        "name": "Dermot"
+      },
+      "strict": false,
+      "skills": [
+        "./"
+      ]
+    }
+  ]
+}
